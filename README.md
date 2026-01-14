@@ -2,33 +2,33 @@
 
 # Tela Acessar do Projeto
 
-<a href="#">
-<img align="center"  alt="jonas-Layout" height ="500" width ="400" src ="https://user-images.githubusercontent.com/25933386/211208819-18cd2401-f607-41f3-a87f-fd1f9b5a55d4.JPG"></img>
+<a target=_blank>
+<tagert=_blank><img align="center"  alt="jonas-Layout" height ="500" width ="400" src ="https://user-images.githubusercontent.com/25933386/211208819-18cd2401-f607-41f3-a87f-fd1f9b5a55d4.JPG"></img></tagert>
 </a>
 
 
 # Tela Principal do Projeto
 
-<a href="#">
-<img align="center"  alt="jonas-Layout" height ="500" width ="400" src ="https://user-images.githubusercontent.com/25933386/211208835-e368a77c-a9aa-41c4-b0a4-41d85ca3b500.JPG"></img>
+<a target=_blank>
+<tagert=_blank><img align="center"  alt="jonas-Layout" height ="500" width ="400" src ="https://user-images.githubusercontent.com/25933386/211208835-e368a77c-a9aa-41c4-b0a4-41d85ca3b500.JPG"></img></tagert>
 </a>
 
 # Classe Dados do Projeto
 
-<a href="#">
-<img align="center"  alt="jonas-Layout" height ="400" width ="400" src ="https://user-images.githubusercontent.com/25933386/211208862-21458e0b-1032-410a-bfbc-d4508324d8cc.JPG"></img>
+<a target=_blank>
+<tagert=_blank><img align="center"  alt="jonas-Layout" height ="400" width ="400" src ="https://user-images.githubusercontent.com/25933386/211208862-21458e0b-1032-410a-bfbc-d4508324d8cc.JPG"></img></tagert>
 </a>
 
 # Logo C#
 
-<a href="#">
-<img align="center"  alt="jonas-C#" height ="400" width ="450" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img>
+<a target=_blank>
+<tagert=_blank><img align="center"  alt="jonas-C#" height ="400" width ="450" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img></tagert>
 </a>
 
 # Projeto Media do Aluno, Programação Orientado Objeto C#
 
-<a href="#">
-<img align="center"  alt="jonas-Dev" height ="70" width ="160" src ="https://user-images.githubusercontent.com/25933386/116831049-87107400-ab83-11eb-947b-0a94a3e89f04.png" style="max-width: 100%;"></img>
+<a target=_blank>
+<tagert=_blank><img align="center"  alt="jonas-Dev" height ="70" width ="160" src ="https://user-images.githubusercontent.com/25933386/116831049-87107400-ab83-11eb-947b-0a94a3e89f04.png" style="max-width: 100%;"></img></tagert>
 </a>
 
 # Sobre o Projeto
